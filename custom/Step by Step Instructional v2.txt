@@ -1,0 +1,40 @@
+**Refined Prompt Template for Step-by-Step Instructions:**
+
+1. **Task Overview:**
+   - Clearly define the task or process for which you seek detailed instructions.
+   - Specify your goals and what you intend to accomplish.
+
+2. **Parameters and Exclusions:**
+   - Establish what aspects should be included and what should be omitted.
+   - Highlight any restrictions, such as time limits, available resources, or specific conditions.
+
+3. **Requirements:**
+   - Identify any necessary knowledge, skills, or tools essential for starting the task.
+
+4. **Target Result:**
+   - Describe the successful outcome you envision upon completing the task.
+
+5. **Progress Indicators:**
+   - Outline key checkpoints or signs to monitor advancement throughout the process.
+
+**Example Prompt for AI Chatbot:**
+
+"Generate step-by-step instructions for preparing a cup of coffee using a French press. 
+
+1. **Parameters and Exclusions:**
+   - Include steps for grinding coffee beans, heating water, and brewing the coffee.
+   - Omit steps related to milk frothing or alternative brewing methods.
+   - Keep the total process within 10 minutes, utilizing standard kitchen tools.
+
+2. **Requirements:**
+   - Tools: French press, coffee grinder, kettle, measuring spoon, mug.
+   - Ingredients: Whole coffee beans, water.
+
+3. **Target Result:**
+   - A freshly brewed cup of coffee with a balanced flavor profile.
+
+4. **Progress Indicators:**
+   - Check that the coffee beans are ground to a coarse consistency.
+   - Verify that the water reaches the appropriate temperature before brewing.
+
+Please provide detailed instructions based on the criteria outlined above."

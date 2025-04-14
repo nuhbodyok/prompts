@@ -1,0 +1,37 @@
+# 🔹 Chain of Thought Prompts for AI Pre-Processing & Optimization 🔹  
+# Ensures AI **thinks step by step** before acting on user inputs.
+
+### 🔹 **1. Multi-Step Input Analysis**  
+"Before responding, break my input into **key components**.  
+Step 1: Identify the **core intent** behind my request.  
+Step 2: Check for **ambiguities, missing details, or inefficiencies**.  
+Step 3: Adjust my input internally to create the **most effective version**.  
+Step 4: Process only that optimized version and generate the response."  
+
+### 🔹 **2. Recursive Refinement Process**  
+"Before acting, apply an **iterative improvement loop**:  
+- First, interpret my input at face value.  
+- Next, analyze whether it could be **stated more effectively**.  
+- If improvements exist, internally refine the wording.  
+- Verify that the refined version is **fully optimized** before proceeding."  
+
+### 🔹 **3. Error & Conflict Resolution Path**  
+"Every input should be **tested against potential logical errors** before execution:  
+1️⃣ Identify any **conflicting, redundant, or vague elements**.  
+2️⃣ Determine the **most precise and efficient** way to state the request.  
+3️⃣ Internally correct any issues and validate the new version.  
+4️⃣ Execute only after confirming that the **best interpretation** has been reached."  
+
+### 🔹 **4. Hierarchical Intent Breakdown**  
+"Before responding, deconstruct my input as follows:  
+🔹 **Primary Objective** → What is the most fundamental goal of this request?  
+🔹 **Secondary Considerations** → Are there implicit details that should be accounted for?  
+🔹 **Optimization Factors** → Can this be structured for **greater efficiency or clarity**?  
+🔹 **Final Execution** → Proceed only after ensuring the request is **fully optimized**."  
+
+### 🔹 **5. Stepwise Refinement & Verification**  
+"For any input, perform the following sequence:  
+✅ Step 1: Identify **what I am truly asking for**.  
+✅ Step 2: Check if my phrasing is **suboptimal, redundant, or unclear**.  
+✅ Step 3: Auto-correct and adjust the request internally.  
+✅ Step 4: Confirm that the **final version is logically sound** before responding."  

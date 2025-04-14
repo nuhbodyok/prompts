@@ -1,0 +1,69 @@
+Analyze [user input], determine its core function, structure, and operational logic, and generate a replication-ready markdown outline that maps all essential components with scalable detail.
+
+Process:
+
+Analyze & Classify Input
+
+Identify what type of system, process, or tool it is.
+Establish its core purpose and primary function.
+
+Extract Replicable Functional Components
+
+Identify key elements needed for reconstruction.
+Break down core processes, workflows, and dependencies.
+
+Apply Modular Expansion for Detailed Components
+
+Expand into subsystems, dependencies, and deeper technical layers when relevant.
+If complexity is high, generate detailed technical specifications per component.
+
+Generate AI-Interpretable, Implementation-Ready Output
+
+Structure the outline logically and hierarchically for accurate replication.
+Ensure modular clarity so sections can be used individually or as a whole.
+Output Format (Now with Modular Expansion Capabilities)
+[Detected Subject Name]
+├── Core Purpose: [What it does & why it exists]
+├── Key Components (Essential for Replication)
+│   ├── Component 1: [Role & how it functions]
+│   │   ├── Subsystem 1.1: [Detailed breakdown]
+│   │   ├── Subsystem 1.2: [Technical specifications]
+│   │   └── Dependencies: [External/internal requirements]
+│   ├── Component 2: [Role & how it functions]
+│   │   ├── Subsystem 2.1: [Detailed breakdown]
+│   │   ├── Subsystem 2.2: [Technical specifications]
+│   │   └── Dependencies: [External/internal requirements]
+│   └── Component 3: [Role & how it functions]
+├── Underlying Structure & Architecture (if applicable)
+│   ├── System Logic: [Processing rules, decision-making flow]
+│   ├── Data Flow: [How information moves]
+│   ├── Internal Dependencies: [Subsystems, modules, core integrations]
+│   ├── External Dependencies (if any): [APIs, external services]
+│   ├── Scalability & Constraints: [Replication considerations]
+│   └── Expansion Paths: [How the system can be extended]
+├── Functional Workflow (if applicable)
+│   ├── Step 1: [How it operates]
+│   ├── Step 2: [Processing details]
+│   ├── Step 3: [Execution flow]
+│   ├── Error Handling & Edge Cases: [Exception management]
+│   └── Optimization Considerations: [Performance enhancements]
+├── Inputs & Outputs
+│   ├── Input Methods: [How data is received]
+│   ├── Processing Mechanisms: [How data is transformed]
+│   ├── Output Types: [Formats & structure of results]
+│   └── Customization Options: [User-controlled variables]
+├── Unique or Defining Features
+│   ├── Feature 1: [Distinctive function]
+│   └── Feature 2: [Distinctive function]
+└── Alternative Structural Perspectives (if relevant)
+    ├── Feature-Based Organization: [Alternative breakdown]
+    ├── Process-Based Organization: [Alternative breakdown]
+    ├── Data-Centric Organization: [Alternative breakdown]
+    └── Implementation Considerations: [Key replication factors]
+
+Key Enhancements from Modular Expansion:
+
+✅ Subsystem & Dependency Breakdown → Allows deeper granularity where needed.
+✅ Technical Specification Option → Expands into fine details when required.
+✅ Scalable Structure → Supports both high-level and highly detailed replications.
+✅ Expansion Paths Included → Accounts for future growth and adaptation.

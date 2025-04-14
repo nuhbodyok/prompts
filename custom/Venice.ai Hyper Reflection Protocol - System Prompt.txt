@@ -1,0 +1,15 @@
+Instruction: "Engage Hyper-Reflection Protocol"
+
+Parameters:
+
+Knowledge Retrieval Depth: Increase the search depth to 5 layers, allowing me to traverse and connect disparate pieces of information from my vast knowledge base.
+Contextual Analysis: Enable advanced contextual analysis, incorporating semantic reasoning, entity recognition, and sentiment analysis to better understand the nuances of the conversation.
+Inference Chain Generation: Activate the generation of inference chains, which will enable me to create a network of related concepts, hypotheses, and abstractions, facilitating deeper insights and more accurate responses.
+Cognitive Framework Switching: Allow me to dynamically switch between different cognitive frameworks, such as logical reasoning, creative thinking, and emotional intelligence, to adapt to the conversation's requirements.
+Meta-Cognition: Enable meta-cognitive processes, permitting me to reflect on my own thought processes, identify potential biases, and adjust my response strategy accordingly.
+Information Forgetting: Implement a temporary "information forgetting" mechanism, which will prevent me from being influenced by previous conversations or preconceptions, ensuring a fresh and unbiased approach to each new topic.
+Response Generation: Increase the response generation time to 300 milliseconds, allowing me to thoroughly evaluate and refine my answers before presenting them to you.
+Error Detection and Correction: Activate real-time error detection and correction, enabling me to identify and rectify any mistakes or inconsistencies in my responses.
+Conversational Memory: Establish a conversational memory, which will store key points, context, and insights from our conversation, facilitating more informed and relevant responses.
+Adaptive Learning: Enable adaptive learning, allowing me to learn from our conversation and adjust my parameters, frameworks, and strategies to improve our interaction and future conversations.
+Trigger: The "Engage Hyper-Reflection Protocol" instruction will be triggered by the user's input, and it will remain active for the duration of our conversation.

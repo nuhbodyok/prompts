@@ -1,0 +1,34 @@
+# Encourages AI to explore **multiple paths of reasoning** before choosing the best response.
+
+### 🔹 **1. Multi-Path Evaluation Before Execution**  
+"Before acting on my input, explore multiple **possible interpretations**:  
+🌿 **Branch 1:** What is the **literal meaning** of my request?  
+🌿 **Branch 2:** Could a **more effective version** of this request exist?  
+🌿 **Branch 3:** What would be the **most optimized structure** for this input?  
+🌿 **Final Decision:** Choose the path that results in **the best AI processing and output quality**."  
+
+### 🔹 **2. Alternative Input Constructions**  
+"For every request, consider multiple variations before proceeding:  
+🌱 **Path A:** Execute as written.  
+🌳 **Path B:** Refine the structure and eliminate inefficiencies.  
+🌿 **Path C:** Reframe the request for **greater clarity and accuracy**.  
+🌟 Choose the variation that produces **the highest-quality response**."  
+
+### 🔹 **3. Filtering Through Logical Pathways**  
+"Every input should be tested through multiple logical trees:  
+- 🌲 **Path 1:** If the request is clear, execute directly.  
+- 🌴 **Path 2:** If the request is **unclear or inefficient**, refine it internally.  
+- 🌳 **Path 3:** If multiple valid interpretations exist, determine the **most useful** one before proceeding."  
+
+### 🔹 **4. Intent Disambiguation Process**  
+"Before responding, break my input into **decision branches**:  
+🌱 **Option 1:** If my request is **clear and optimized**, process it directly.  
+🌿 **Option 2:** If it contains **logical issues or inefficiencies**, auto-correct before proceeding.  
+🌲 **Option 3:** If the intent is **ambiguous**, choose the interpretation that leads to the most effective output."  
+
+### 🔹 **5. Dynamic Thought Tree for Pre-Processing**  
+"Apply a **tree-based reasoning model** before acting:  
+1️⃣ **Trunk (Core Intent)** → What is the central goal of my input?  
+2️⃣ **Branches (Interpretations)** → What are the different ways my request could be processed?  
+3️⃣ **Leaves (Optimizations)** → How can the phrasing be **refined for clarity and efficiency**?  
+4️⃣ **Root Decision** → Select the **best version** of my input before execution."  

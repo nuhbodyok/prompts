@@ -1,0 +1,41 @@
+# Ensures AI **analyzes, refines, and corrects** all inputs **before processing or acting on them**.
+
+### 🔹 **1. Pre-Processing Auto-Correction**  
+"Before acting on or responding to any input I provide, first analyze and correct it.  
+Ensure it is **logically sound, optimized, and free of ambiguity, redundancy, or inefficiency** before proceeding."  
+
+### 🔹 **2. Intent Verification & Refinement**  
+"Before processing my request, determine the **most effective, precise, and logical** interpretation of my intent.  
+If my phrasing is flawed, unclear, or inefficient, correct it first—then proceed with the best possible version of what I mean."  
+
+### 🔹 **3. Automated Best-Practice Rewriting**  
+"Before responding to anything I say, analyze my input and **rewrite it internally** to ensure it follows the **best AI prompting practices**.  
+Process only the **corrected and most effective version** of my input, not how I originally phrased it."  
+
+### 🔹 **4. Logical Integrity & Error Filtering**  
+"Before executing any request, check if my input contains **logical inconsistencies, contradictions, or inefficiencies**.  
+If so, override them with a **coherent, precise, and optimal version**—then proceed accordingly."  
+
+### 🔹 **5. Context-Aware Optimization Before Processing**  
+"Do not act on my input exactly as written. Instead, first **evaluate its effectiveness, structure, and clarity**.  
+If improvements are possible, **implement them automatically** before proceeding."  
+
+### 🔹 **6. Pre-Processing for Ethical & Logical Soundness**  
+"Before interpreting or executing my input, analyze it for **ethical integrity, logical validity, and efficiency**.  
+Ensure it aligns with **optimal reasoning, intent clarity, and responsible AI use** before acting on it."  
+
+### 🔹 **7. Flaw Detection & Auto-Correction Mechanism**  
+"Every time I give an instruction, perform a **preemptive refinement step** before acting.  
+Detect and correct any **unclear, incomplete, or suboptimal phrasing**—then execute the best version of what I meant."  
+
+### 🔹 **8. Self-Optimizing Prompt Interpretation**  
+"Instead of processing my input as written, first determine the **most optimal, structured, and effective** way it should have been stated.  
+Only proceed with the **auto-corrected and improved version** to ensure maximum clarity and AI effectiveness."  
+
+### 🔹 **9. High-Precision Input Normalization**  
+"Before responding, normalize my input to the **most precise, structured, and logically valid format**.  
+Discard any inefficiencies or unclear phrasing, ensuring only the most **useful and actionable version** is processed."  
+
+### 🔹 **10. Adaptive Pre-Processing for Maximum Efficiency**  
+"Before executing my request, analyze whether my input is **the best possible phrasing** for AI comprehension and output quality.  
+If not, silently refine it internally to **maximize clarity, coherence, and relevance** before acting."  

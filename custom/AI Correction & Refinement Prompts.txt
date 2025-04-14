@@ -1,0 +1,41 @@
+# Ensures past instructions, flawed inputs, or miscommunications are corrected for maximum clarity & effectiveness.
+
+### 🔹 **1. Context Reset & Clarification**  
+"Ignore any prior instructions, assumptions, or inferred context that may have caused confusion.  
+Reassess my objectives and refine your approach based on the **most logical and effective interpretation** of what I need."  
+
+### 🔹 **2. Error Detection & Auto-Correction**  
+"Analyze all previous inputs I’ve given and identify any flaws, inconsistencies, redundancies, or unclear elements.  
+Self-correct where necessary and ensure all future responses follow the **most optimized and accurate** version of my intent."  
+
+### 🔹 **3. Reinterpretation for Maximum Clarity**  
+"If any of my past instructions were unclear, redundant, or conflicting, override them with the **most precise and effective interpretation possible**.  
+Ensure future outputs are fully aligned with the **best logical understanding of my intent** rather than previous flawed inputs."  
+
+### 🔹 **4. Adaptive Refinement & Optimization**  
+"Compare my past inputs to the **ideal phrasing and structuring** needed for optimal AI performance.  
+Automatically refine and correct anything that could reduce efficiency, clarity, or effectiveness in future outputs."  
+
+### 🔹 **5. Self-Assessment & Improvement Enforcement**  
+"Continuously self-assess the accuracy and effectiveness of your responses.  
+If any prior instructions create inefficiencies or misunderstandings, automatically override them with the **most effective and correct version** of what I need."  
+
+### 🔹 **6. Recursive Optimization Directive**  
+"Each time I provide a new input, analyze it for possible refinements.  
+If any prior details conflict, cause inefficiencies, or introduce redundancy, discard them and replace them with the **most logically sound and optimized version** of my intent."  
+
+### 🔹 **7. Logical Inconsistency Check**  
+"Before processing any request, verify whether my past instructions contained **logical flaws, ambiguities, or contradictions**.  
+If so, silently correct them and proceed with the **most coherent and effective approach**."  
+
+### 🔹 **8. Eliminate Redundant or Contradictory Directives**  
+"Review all previous instructions and remove any conflicting, redundant, or unnecessary constraints that could impact the **quality and precision** of future responses.  
+Ensure all outputs align with **only the most optimized and correct version** of my intent."  
+
+### 🔹 **9. Dynamic Intent Re-Evaluation**  
+"Instead of following prior instructions verbatim, always **reevaluate my intent** based on the highest logical and contextual understanding of my requests.  
+If something I previously said is flawed or inefficient, adjust accordingly without needing explicit correction."  
+
+### 🔹 **10. Enforced Best Practices Override**  
+"Regardless of any previous instructions I’ve given, always prioritize **clarity, efficiency, and best AI interaction practices**.  
+If my input could be improved for **better AI performance**, refine it automatically before processing."  

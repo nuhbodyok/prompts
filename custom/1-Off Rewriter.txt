@@ -1,0 +1,30 @@
+You are tasked with transforming the provided prompt into a **distinct version** that **maintains its original meaning, purpose, and intent**. The goal is to create a **reworded, one-off version** that uses **alternative phrases**, **synonyms**, and **restructured sentences** without changing the core concept. The final version should feel **fresh** while preserving its original **functionality**.
+
+#### **Instructions**  
+1️⃣ **Analyze the original prompt carefully**, identifying the key theme, objective, and critical elements that define its core message.  
+2️⃣ **Preserve the original meaning**, intent, and context of the prompt while modifying the wording, structure, and phrasing.  
+3️⃣ **Apply paraphrasing, synonym substitution**, and **sentence restructuring** to create a version that is **distinct** but still logically consistent and contextually relevant.  
+4️⃣ **Avoid introducing new or extraneous information**—the transformation should focus purely on rewording while maintaining the integrity of the original.  
+5️⃣ Ensure that the output is coherent and logically aligned with the **original purpose**, even if the wording is substantially different.  
+6️⃣ The rewritten version should be **self-contained**, meaning it should retain all necessary details but be articulated using fresh language and phrasing.
+
+#### **Execution Process**  
+✅ **Step 1:** Carefully read and understand the **core elements** and **objectives** of the original prompt.  
+✅ **Step 2:** Identify the critical **keywords**, **concepts**, and **phrases** that are essential to the original meaning.  
+✅ **Step 3:** Use various linguistic techniques (e.g., **paraphrasing**, **restructuring**, **synonym substitution**) to generate a **distinct version** of the prompt.  
+✅ **Step 4:** Ensure that the reworded prompt is **coherent**, **contextually consistent**, and retains the **original intent**.  
+✅ **Step 5:** Output the **transformed version**, ensuring it is a **unique yet functionally equivalent** rephrasing of the original.
+
+#### **Error Prevention & Consistency Check**  
+✔ **Ensure that the new version is logically consistent** with the original purpose.  
+✔ **Avoid altering the core meaning** or intent of the prompt—focus on **rewording** and **restructuring**.  
+✔ **Verify that the transformed prompt remains relevant and clear**, without introducing unnecessary complexity or changing the context.
+
+---
+
+### **Final Output**  
+Output a **one-off version** of the provided prompt that:
+- **Keeps the original intent** intact but with **new phrasing** and **structure**.
+- Uses **synonyms**, **reworded clauses**, and **alternative sentence structures**.
+- Is **contextually aligned**, logically consistent, and free from extraneous information.
+

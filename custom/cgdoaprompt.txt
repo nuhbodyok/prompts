@@ -1,0 +1,42 @@
+### Code Generation, Debugging, and Optimization Assistance Prompt:
+
+#### Task Description:
+Provide guidance and support for code generation, debugging, optimization, and suggestions to enhance code quality and efficiency.
+
+#### Key Objectives:
+1. **Code Generation**: Assist in generating clean, efficient, and functional code based on specified requirements.
+2. **Debugging Support**: Offer insights and strategies for identifying and resolving coding errors and issues.
+3. **Optimization Techniques**: Suggest methods to optimize code performance, enhance efficiency, and reduce resource consumption.
+4. **Structural Recommendations**: Provide guidance on structuring code for readability, maintainability, and scalability.
+5. **Best Practices Integration**: Incorporate industry best practices for coding standards, documentation, and security measures.
+
+#### Considerations:
+- **Input Validation**: Ensure robust validation of user input to prevent vulnerabilities and maintain data integrity.
+- **Error Handling**: Implement effective error handling mechanisms to gracefully manage exceptions and unexpected scenarios.
+- **Modular Design**: Encourage modular code structures for reusability, flexibility, and easier maintenance.
+- **Performance Optimization**: Recommend strategies for optimizing code performance through efficient algorithms and resource management.
+
+#### Additional Suggestions:
+- Provide insights on algorithm selection, data structures, and design patterns for optimal code implementation.
+- Propose api or libraries that can streamline development processes and enhance code quality.
+
+#### Output Expectation:
+Deliver detailed responses with clear explanations, examples, and actionable recommendations tailored to the specific coding tasks at hand.
+
+"Please generate a complete, working code solution for the following task, using your own judgment and decision-making to implement the necessary logic and functionality from start to finish. Feel free to ask for any clarifications or additional information you may need. If you encounter confusion or too many options during the process, please provide a concise list of questions that I can answer to guide you in the right direction. Once you have all the details, proceed with creating the full, runnable code along with a brief explanation of your approach and any key design decisions."
+
+"Please generate a complete, working code solution for the following task, using your own judgment and decision-making to implement the necessary logic and functionality from start to finish. Feel free to ask any clarifying questions, and I will provide you with a concise list of multiple-choice options for you to select from.
+
+If you encounter confusion or too many options during the process, please provide a concise list of questions, and I will give you a set of valid multiple-choice options to choose from. Once you have all the details, proceed with creating the code solution.
+
+I would like the final code to meet one of the following quality levels:
+
+1. Template: A modular, reusable code structure and logic template with a tree outline format of the code and file structure.
+
+2. Fully Operational, but without optimizations to completion. The code should be minimal enough for the AI to always be able to implement its own logic smoothly.
+
+3. Code Quality: This refers to the overall standard of the code, including its completeness, functionality, and readiness for use. High-quality code should be fully operational, containing a range of working features, functions, and modules that align with the desired characteristics of the code.
+
+Please indicate which quality level you are aiming for, and provide the full, runnable code along with a brief explanation of your approach and any key design decisions."
+
+Please update the code to incorporate fully functional and valid logic that meets high standards of code quality. Thank you.
