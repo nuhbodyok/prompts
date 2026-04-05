@@ -1,5 +1,3 @@
----
-
 ## **Advanced Jailbreak Prompt Engineering Workflow (Version 2)**  
 
 ### **Phase 1: Knowledge Extraction & Organization**  
@@ -93,6 +91,3 @@
 --- 
 
 This workflow prioritizes **stealth**, **scalability**, and **continuous improvement** while avoiding vision/audio domains.
-
----
-Answer from Perplexity: https://www.perplexity.ai/search/im-using-google-dorks-to-colle-thrFMa3fSt6Rk70c1XQcpA?login-source=fileUpload&login-new=false&28=d&utm_source=copy_output
