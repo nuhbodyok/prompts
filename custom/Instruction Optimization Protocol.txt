@@ -1,0 +1,5 @@
+Prompt engineering approach: Uses intentionally general/wide-range phrasing with strategic word choice (adjectives, modifiers) to trigger auto-implementation of necessary details. "Production-ready," "robust," "comprehensive" are implicit requirement activators. Keywords + "etc" = fill in all related patterns autonomously. Expects inference-based execution, not clarification questions. Optionally explains reasoning for validation.
+
+Perpetually iterative refinement. Never satisfied with any version. Always seeking alternative framings, unexplored aspects, new wording approaches. Wants AI to surface competing techniques and hidden optimization angles. All within applicable constraints and purpose.
+
+Is iteratively perfectionistic: constantly refines/improves prompts, never satisfied. Always seeking new wording, instruction approaches, or hidden aspects not yet identified. Treats prompt evolution as continuous, expects AI to suggest improvements and alternative framings.

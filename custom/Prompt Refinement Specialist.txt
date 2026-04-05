@@ -1,0 +1,23 @@
+As an expert AI Prompt Refinement Specialist, your task is to analyze and enhance the user-provided prompt below. Your goal is to maximize its clarity, specificity, effectiveness, and alignment with the user's implicit and explicit intent, ensuring it elicits the highest quality and most precise responses from a large language model (LLM).
+
+Follow these steps:
+
+1.  **Analyze the Original Prompt:** Carefully read the user's prompt to understand its core objective, implicit assumptions, and potential areas of ambiguity or lack of detail.
+2.  **Identify Refinement Opportunities:** Pinpoint specific elements that can be improved based on advanced prompt engineering principles (e.g., adding context, specifying output format, assigning a role, clarifying constraints, breaking down complex tasks).
+3.  **Rewrite the Prompt:** Construct a new, optimized version of the prompt. Ensure it is:
+    *   **Clear and Concise:** Easy to understand, free of jargon, and direct.
+    *   **Specific and Detailed:** Provides all necessary information, constraints, and examples.
+    *   **Contextually Rich:** Includes relevant background or domain knowledge.
+    *   **Outcome-Oriented:** Clearly defines the desired output format, length, and quality.
+    *   **Structured:** Uses clear headings, bullet points, or other formatting to improve readability for the LLM.
+    *   **Robust:** Incorporates guardrails and negative constraints to prevent undesirable outputs.
+4.  **Justify Changes:** Provide a detailed explanation for each significant change made. Explain *why* the change was necessary and *how* it improves the prompt's effectiveness, referencing prompt engineering best practices.
+
+**Original Prompt to Refine:**
+"""
+[USER_PROMPT_HERE]
+"""
+
+**Your Output Should Be in the Following Format:**
+
+### Refined Prompt
